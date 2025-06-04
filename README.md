@@ -1,189 +1,150 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">TELECOMX</h1></p>
 <p align="center">
-	<em>Empowering insights, optimizing telecom infrastructure.</em>
+	<em>Capacitando insights, otimizando a infraestrutura de telecomunicações.</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/cauasantoslt/telecomx?style=default&logo=opensourceinitiative&logoColor=white&color=aa00ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/cauasantoslt/telecomx?style=default&logo=git&logoColor=white&color=aa00ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/cauasantoslt/telecomx?style=default&color=aa00ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/cauasantoslt/telecomx?style=default&color=aa00ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/cauasantoslt/telecomx?style=default&logo=opensourceinitiative&logoColor=white&color=aa00ff" alt="licença">
+	<img src="https://img.shields.io/github/last-commit/cauasantoslt/telecomx?style=default&logo=git&logoColor=white&color=aa00ff" alt="último-commit">
+	<img src="https://img.shields.io/github/languages/top/cauasantoslt/telecomx?style=default&color=aa00ff" alt="linguagem-principal-do-repositório">
+	<img src="https://img.shields.io/github/languages/count/cauasantoslt/telecomx?style=default&color=aa00ff" alt="contagem-de-linguagens-do-repositório">
 </p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
+<p align="center"></p>
 <p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
+	</p>
 <br>
 
-## 🔗 Table of Contents
+## 🔗 Sumário
 
-- [📍 Overview](#-overview)
-- [👾 Features](#-features)
-- [📁 Project Structure](#-project-structure)
-  - [📂 Project Index](#-project-index)
-- [🚀 Getting Started](#-getting-started)
-  - [☑️ Prerequisites](#-prerequisites)
-  - [⚙️ Installation](#-installation)
-  - [🤖 Usage](#🤖-usage)
-  - [🧪 Testing](#🧪-testing)
-- [📌 Project Roadmap](#-project-roadmap)
-- [🔰 Contributing](#-contributing)
-- [🎗 License](#-license)
-- [🙌 Acknowledgments](#-acknowledgments)
-
----
-
-## 📍 Overview
-
-TelecomX is a powerful open-source project that revolutionizes telecom data analysis. It offers a comprehensive tool for understanding customer behavior, network performance, and service quality. By enabling data-driven decision-making, TelecomX optimizes telecom infrastructure, enhancing operational efficiency. Ideal for telecom professionals seeking insights and optimizations.
+- [📍 Visão Geral](#-visão-geral)
+- [👾 Recursos](#-recursos)
+- [📁 Estrutura do Projeto](#-estrutura-do-projeto)
+  - [📂 Índice do Projeto](#-índice-do-projeto)
+- [🚀 Primeiros Passos](#-primeiros-passos)
+  - [☑️ Pré-requisitos](#️-pré-requisitos)
+  - [⚙️ Instalação](#️-instalação)
+  - [🤖 Uso](#🤖-uso)
+  - [🧪 Testes](#-testes)
+- [📌 Roteiro do Projeto](#-roteiro-do-projeto)
+- [🔰 Contribuindo](#-contribuindo)
+- [🎗 Licença](#-licença)
+- [🙌 Agradecimentos](#-agradecimentos)
 
 ---
 
-## 👾 Features
+## 📍 Visão Geral
 
-|      | Feature         | Summary       |
-| :--- | :---:           | :---          |
-| ⚙️  | **Architecture**  | <ul><li>Based on JupyterNotebook</li><li>Utilizes <tool>TelecomX_Cauã.ipynb</tool> for telecom data analysis and visualization</li><li>Supports comprehensive insights into customer behavior, network performance, and service quality</li><li>Enables data-driven decision-making for optimizing telecom infrastructure</li></ul> |
-| 🔩 | **Code Quality**  | <ul><li>Well-structured and documented code in JupyterNotebook</li><li>Follows best practices for data analysis and visualization</li><li>Utilizes appropriate libraries and functions for telecom data processing</li></ul> |
-| 📄 | **Documentation** | <ul><li>Comprehensive documentation in JupyterNotebook format</li><li>Includes detailed explanations of telecom data analysis and visualization techniques</li><li>Facilitates understanding and usage of the project for stakeholders</li></ul> |
-| 🔌 | **Integrations**  | <ul><li>Capable of integrating with various data sources and formats</li><li>Supports seamless data import and export functionalities</li><li>Can be extended to integrate with external APIs for real-time data processing</li></ul> |
-| 🧩 | **Modularity**    | <ul><li>Organized into modular components for scalability and maintainability</li><li>Allows for easy extension and customization of telecom data analysis modules</li><li>Promotes code reusability and collaboration among team members</li></ul> |
-| 🧪 | **Testing**       | <ul><li>Includes testing strategies for data processing and visualization functions</li><li>Ensures accuracy and reliability of telecom data analysis results</li><li>Supports automated testing frameworks for continuous integration</li></ul> |
-| ⚡️  | **Performance**   | <ul><li>Optimized for efficient processing of large volumes of telecom data</li><li>Utilizes parallel processing techniques for faster analysis and visualization</li><li>Ensures responsive performance for interactive data exploration</li></ul> |
-| 🛡️ | **Security**      | <ul><li>Implements data encryption and access control mechanisms for sensitive telecom data</li><li>Follows security best practices to prevent data breaches and unauthorized access</li><li>Regularly updates dependencies to address security vulnerabilities</li></ul> |
-| 📦 | **Dependencies**  | <ul><li>Depends on <tool>jupyternotebook</tool> for code execution and visualization</li><li>Utilizes specific libraries and packages for telecom data analysis</li><li>Manages dependencies efficiently to ensure project stability and compatibility</li></ul> |
+TelecomX é um poderoso projeto de código aberto que **revoluciona a análise de dados de telecomunicações**. Ele oferece uma ferramenta **abrangente** para entender o **comportamento do cliente**, o **desempenho da rede** e a **qualidade do serviço**. Ao possibilitar a **tomada de decisões baseada em dados**, o TelecomX **otimiza a infraestrutura de telecomunicações**, **aumentando a eficiência operacional**. É ideal para profissionais de telecomunicações que buscam insights e otimizações.
 
 ---
 
-## 📁 Project Structure
+## 👾 Recursos
 
-```sh
+|      | Recurso          | Resumo        |
+| :--- | :---:            | :---          |
+| ⚙️  | **Arquitetura**   | <ul><li>Baseado em Jupyter Notebook</li><li>Utiliza **`TelecomX_Cauã.ipynb`** para análise e visualização de dados de telecomunicações</li><li>Suporta insights abrangentes sobre o comportamento do cliente, desempenho da rede e qualidade do serviço</li><li>Permite a tomada de decisões baseada em dados para otimizar a infraestrutura de telecomunicações</li></ul> |
+| 🔩 | **Qualidade do Código**   | <ul><li>Código bem estruturado e documentado no Jupyter Notebook</li><li>Segue as melhores práticas para análise e visualização de dados</li><li>Utiliza bibliotecas e funções apropriadas para o processamento de dados de telecomunicações</li></ul> |
+| 📄 | **Documentação** | <ul><li>Documentação abrangente em formato Jupyter Notebook</li><li>Inclui explicações detalhadas das técnicas de análise e visualização de dados de telecomunicações</li><li>Facilita a compreensão e o uso do projeto para as partes interessadas</li></ul> |
+| 🔌 | **Integrações**   | <ul><li>Capaz de integrar-se com várias fontes e formatos de dados</li><li>Suporta funcionalidades contínuas de importação e exportação de dados</li><li>Pode ser estendido para integrar-se com APIs externas para processamento de dados em tempo real</li></ul> |
+| 🧩 | **Modularidade**    | <ul><li>Organizado em componentes modulares para escalabilidade e manutenibilidade</li><li>Permite fácil extensão e personalização dos módulos de análise de dados de telecomunicações</li><li>Promove a reutilização de código e a colaboração entre os membros da equipe</li></ul> |
+| 🧪 | **Testes**        | <ul><li>Inclui estratégias de teste para funções de processamento e visualização de dados</li><li>Garante a precisão e a confiabilidade dos resultados da análise de dados de telecomunicações</li><li>Suporta frameworks de teste automatizados para integração contínua</li></ul> |
+| ⚡️  | **Desempenho**    | <ul><li>Otimizado para processamento eficiente de grandes volumes de telecomunicações</li><li>Utiliza técnicas de processamento paralelo para análise e visualização mais rápidas</li><li>Garante desempenho responsivo para exploração interativa de dados</li></ul> |
+| 🛡️ | **Segurança**     | <ul><li>Implementa mecanismos de criptografia de dados e controle de acesso para dados sensíveis de telecomunicações</li><li>Segue as melhores práticas de segurança para prevenir violações de dados e acesso não autorizado</li><li>Atualiza regularmente as dependências para abordar vulnerabilidades de segurança</li></ul> |
+| 📦 | **Dependências**   | <ul><li>Depende de **`jupyternotebook`** para execução de código e visualização</li><li>Utiliza bibliotecas e pacotes específicos para análise de dados de telecomunicações</li><li>Gerencia as dependências de forma eficiente para garantir a estabilidade e compatibilidade do projeto</li></ul> |
+
+---
+
+## 📁 Estrutura do Projeto
+
+sh
 └── telecomx/
-    └── TelecomX_Cauã.ipynb
-```
+    └── TelecomX_Cauã.ipynb
+📂 Índice do Projeto
+&lt;details open>
+&lt;summary>&lt;b>&lt;code>TELECOMX/&lt;/code>&lt;/b>&lt;/summary>
+&lt;details> &lt;summary>&lt;b>root&lt;/b>&lt;/summary>
+&lt;blockquote>
+&lt;table>
+&lt;tr>
+&lt;td>&lt;b>&lt;a href='https://github.com/cauasantoslt/telecomx/blob/master/TelecomX_Cauã.ipynb'>TelecomX_Cauã.ipynb&lt;/a>&lt;/b>&lt;/td>
+&lt;td>- Resumo:
 
+O arquivo de código TelecomX_Cauã.ipynb no projeto serve como uma ferramenta abrangente de análise e visualização para dados de telecomunicações, fornecendo insights sobre o comportamento do cliente, o desempenho da rede e a qualidade do serviço.&lt;br>- Ele desempenha um papel crucial na compreensão e otimização da infraestrutura de telecomunicações, permitindo a tomada de decisões baseada em dados e aumentando a eficiência operacional geral.&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;/blockquote>
+&lt;/details>
 
-### 📂 Project Index
-<details open>
-	<summary><b><code>TELECOMX/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/cauasantoslt/telecomx/blob/master/TelecomX_Cauã.ipynb'>TelecomX_Cauã.ipynb</a></b></td>
-				<td>- Summary:
+&lt;/details>
 
-The code file TelecomX_Cauã.ipynb in the project serves as a comprehensive analysis and visualization tool for telecom data, providing insights into customer behavior, network performance, and service quality<br>- It plays a crucial role in understanding and optimizing the telecom infrastructure, enabling data-driven decision-making and enhancing overall operational efficiency.</td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-</details>
+🚀 Primeiros Passos
+☑️ Pré-requisitos
+Antes de começar com o telecomx, certifique-se de que seu ambiente de tempo de execução atende aos seguintes requisitos:
 
----
-## 🚀 Getting Started
+Linguagem de Programação: Jupyter Notebook
+⚙️ Instalação
+Instale o telecomx usando um dos seguintes métodos:
 
-### ☑️ Prerequisites
+Compilar a partir do código-fonte:
 
-Before getting started with telecomx, ensure your runtime environment meets the following requirements:
+Clone o repositório telecomx:
+<!-- end list -->
 
-- **Programming Language:** JupyterNotebook
+Bash
 
+❯ git clone [https://github.com/cauasantoslt/telecomx](https://github.com/cauasantoslt/telecomx)
+Navegue até o diretório do projeto:
+<!-- end list -->
 
-### ⚙️ Installation
+Bash
 
-Install telecomx using one of the following methods:
-
-**Build from source:**
-
-1. Clone the telecomx repository:
-```sh
-❯ git clone https://github.com/cauasantoslt/telecomx
-```
-
-2. Navigate to the project directory:
-```sh
 ❯ cd telecomx
-```
+Instale as dependências do projeto:
+echo 'INSIRA-COMANDO-DE-INSTALACAO-AQUI'
 
-3. Install the project dependencies:
+🤖 Uso
+Execute o telecomx usando o seguinte comando:
+echo 'INSIRA-COMANDO-DE-EXECUCAO-AQUI'
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
+🧪 Testes
+Execute o conjunto de testes usando o seguinte comando:
+echo 'INSIRA-COMANDO-DE-TESTE-AQUI'
 
+📌 Roteiro do Projeto
+[X] Tarefa 1: &lt;strike>Implementar recurso um.&lt;/strike>
+[ ] Tarefa 2: Implementar recurso dois.
+[ ] Tarefa 3: Implementar recurso três.
+🔰 Contribuindo
+💬 Participe das Discussões: Compartilhe seus insights, forneça feedback ou faça perguntas.
+🐛 Relate Problemas: Envie bugs encontrados ou registre solicitações de recursos para o projeto telecomx.
+💡 Envie Pull Requests: Revise os PRs abertos e envie seus próprios PRs.
+&lt;details closed>
+&lt;summary>Diretrizes de Contribuição&lt;/summary>
 
+Faça um Fork do Repositório: Comece fazendo um fork do repositório do projeto para sua conta do GitHub.
+Clone Localmente: Clone o repositório bifurcado para sua máquina local usando um cliente Git.    sh    git clone [https://github.com/cauasantoslt/telecomx](https://github.com/cauasantoslt/telecomx)
+Crie uma Nova Branch: Sempre trabalhe em uma nova branch, dando a ela um nome descritivo.    sh    git checkout -b nova-feature-x
+Faça Suas Alterações: Desenvolva e teste suas alterações localmente.
+Commit Suas Alterações: Faça um commit com uma mensagem clara descrevendo suas atualizações.    sh    git commit -m 'Implementada nova feature x.'
+Envie para o GitHub: Envie as alterações para o seu repositório bifurcado.    sh    git push origin nova-feature-x
+Envie um Pull Request: Crie um PR contra o repositório original do projeto. Descreva claramente as alterações e suas motivações.
+Revisão: Assim que seu PR for revisado e aprovado, ele será mesclado na branch principal. Parabéns pela sua contribuição!
+&lt;/details>
 
-### 🤖 Usage
-Run telecomx using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
+&lt;details closed>
+&lt;summary>Gráfico de Contribuidores&lt;/summary>
+&lt;br>
+&lt;p align="left">
+   &lt;a href="https://github.com{/cauasantoslt/telecomx/}graphs/contributors">
+      &lt;img src="https://contrib.rocks/image?repo=cauasantoslt/telecomx">
+   &lt;/a>
+&lt;/p>
+&lt;/details>
 
-### 🧪 Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
+🎗 Licença
+Este projeto é protegido sob a Licença SELECT-A-LICENSE. Para mais detalhes, consulte o arquivo LICENSE.
 
----
-## 📌 Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
-
-## 🔰 Contributing
-
-- **💬 [Join the Discussions](https://github.com/cauasantoslt/telecomx/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/cauasantoslt/telecomx/issues)**: Submit bugs found or log feature requests for the `telecomx` project.
-- **💡 [Submit Pull Requests](https://github.com/cauasantoslt/telecomx/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
-<details closed>
-<summary>Contributing Guidelines</summary>
-
-1. **Fork the Repository**: Start by forking the project repository to your github account.
-2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
-   ```sh
-   git clone https://github.com/cauasantoslt/telecomx
-   ```
-3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
-   ```sh
-   git checkout -b new-feature-x
-   ```
-4. **Make Your Changes**: Develop and test your changes locally.
-5. **Commit Your Changes**: Commit with a clear message describing your updates.
-   ```sh
-   git commit -m 'Implemented new feature x.'
-   ```
-6. **Push to github**: Push the changes to your forked repository.
-   ```sh
-   git push origin new-feature-x
-   ```
-7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
-8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
-</details>
-
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/cauasantoslt/telecomx/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=cauasantoslt/telecomx">
-   </a>
-</p>
-</details>
-
----
-
-## 🎗 License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-## 🙌 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
+🙌 Agradecimentos
+Liste quaisquer recursos, contribuidores, inspiração, etc. aqui.
