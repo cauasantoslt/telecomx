@@ -1,21 +1,7 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
 <p align="center"><h1 align="center">TELECOMX</h1></p>
 <p align="center">
 	<em>Capacitando insights, otimizando a infraestrutura de telecomunicações.</em>
 </p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/cauasantoslt/telecomx?style=default&logo=opensourceinitiative&logoColor=white&color=aa00ff" alt="licença">
-	<img src="https://img.shields.io/github/last-commit/cauasantoslt/telecomx?style=default&logo=git&logoColor=white&color=aa00ff" alt="último-commit">
-	<img src="https://img.shields.io/github/languages/top/cauasantoslt/telecomx?style=default&color=aa00ff" alt="linguagem-principal-do-repositório">
-	<img src="https://img.shields.io/github/languages/count/cauasantoslt/telecomx?style=default&color=aa00ff" alt="contagem-de-linguagens-do-repositório">
-</p>
-<p align="center"></p>
-<p align="center">
-	</p>
-<br>
-
 ## 🔗 Sumário
 
 - [📍 Visão Geral](#-visão-geral)
