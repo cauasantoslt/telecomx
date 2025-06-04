@@ -58,9 +58,6 @@ TelecomX é um poderoso projeto de código aberto que **revoluciona a análise d
 
 ## 📁 Estrutura do Projeto
 
-sh
-└── telecomx/
-    └── TelecomX_Cauã.ipynb
 📂 Índice do Projeto
 &lt;details open>
 &lt;summary>&lt;b>&lt;code>TELECOMX/&lt;/code>&lt;/b>&lt;/summary>
@@ -79,72 +76,5 @@ O arquivo de código TelecomX_Cauã.ipynb no projeto serve como uma ferramenta a
 
 &lt;/details>
 
-🚀 Primeiros Passos
-☑️ Pré-requisitos
-Antes de começar com o telecomx, certifique-se de que seu ambiente de tempo de execução atende aos seguintes requisitos:
-
-Linguagem de Programação: Jupyter Notebook
-⚙️ Instalação
-Instale o telecomx usando um dos seguintes métodos:
-
-Compilar a partir do código-fonte:
-
-Clone o repositório telecomx:
-<!-- end list -->
-
-Bash
-
-❯ git clone [https://github.com/cauasantoslt/telecomx](https://github.com/cauasantoslt/telecomx)
-Navegue até o diretório do projeto:
-<!-- end list -->
-
-Bash
-
-❯ cd telecomx
-Instale as dependências do projeto:
-echo 'INSIRA-COMANDO-DE-INSTALACAO-AQUI'
-
-🤖 Uso
-Execute o telecomx usando o seguinte comando:
-echo 'INSIRA-COMANDO-DE-EXECUCAO-AQUI'
-
-🧪 Testes
-Execute o conjunto de testes usando o seguinte comando:
-echo 'INSIRA-COMANDO-DE-TESTE-AQUI'
-
-📌 Roteiro do Projeto
-[X] Tarefa 1: &lt;strike>Implementar recurso um.&lt;/strike>
-[ ] Tarefa 2: Implementar recurso dois.
-[ ] Tarefa 3: Implementar recurso três.
-🔰 Contribuindo
-💬 Participe das Discussões: Compartilhe seus insights, forneça feedback ou faça perguntas.
-🐛 Relate Problemas: Envie bugs encontrados ou registre solicitações de recursos para o projeto telecomx.
-💡 Envie Pull Requests: Revise os PRs abertos e envie seus próprios PRs.
-&lt;details closed>
-&lt;summary>Diretrizes de Contribuição&lt;/summary>
-
-Faça um Fork do Repositório: Comece fazendo um fork do repositório do projeto para sua conta do GitHub.
-Clone Localmente: Clone o repositório bifurcado para sua máquina local usando um cliente Git.    sh    git clone [https://github.com/cauasantoslt/telecomx](https://github.com/cauasantoslt/telecomx)
-Crie uma Nova Branch: Sempre trabalhe em uma nova branch, dando a ela um nome descritivo.    sh    git checkout -b nova-feature-x
-Faça Suas Alterações: Desenvolva e teste suas alterações localmente.
-Commit Suas Alterações: Faça um commit com uma mensagem clara descrevendo suas atualizações.    sh    git commit -m 'Implementada nova feature x.'
-Envie para o GitHub: Envie as alterações para o seu repositório bifurcado.    sh    git push origin nova-feature-x
-Envie um Pull Request: Crie um PR contra o repositório original do projeto. Descreva claramente as alterações e suas motivações.
-Revisão: Assim que seu PR for revisado e aprovado, ele será mesclado na branch principal. Parabéns pela sua contribuição!
-&lt;/details>
-
-&lt;details closed>
-&lt;summary>Gráfico de Contribuidores&lt;/summary>
-&lt;br>
-&lt;p align="left">
-   &lt;a href="https://github.com{/cauasantoslt/telecomx/}graphs/contributors">
-      &lt;img src="https://contrib.rocks/image?repo=cauasantoslt/telecomx">
-   &lt;/a>
-&lt;/p>
-&lt;/details>
-
-🎗 Licença
-Este projeto é protegido sob a Licença SELECT-A-LICENSE. Para mais detalhes, consulte o arquivo LICENSE.
-
 🙌 Agradecimentos
-Liste quaisquer recursos, contribuidores, inspiração, etc. aqui.
+Fé em Deus.
